@@ -1,0 +1,18 @@
+.VideoItem {
+    width: 100%;
+    height:200px;
+   
+}
+
+ .VideoImage{
+   
+   width: 100%;
+   padding: 1px;
+   height: 170px;
+} 
+
+.VideoTitle{
+    background-color: rgb(235, 230, 230);
+    width: 100%;
+    height: fit-content;
+}
